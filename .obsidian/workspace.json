@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veille/2024-09-23.md",
+                "file": "Cours/Algo/Les Boucles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veille/2024-09-23.md",
+                "file": "Cours/Algo/Les Boucles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Veille/2024-09-23.md",
+                "file": "Cours/Algo/Les Boucles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veille/2024-09-23.md"
+                "file": "Cours/Algo/Les Boucles.md"
               }
             }
           }
@@ -148,23 +148,33 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
+    "Cours/Algo/Les Opérateurs de comparaison.md",
+    "Cours/Algo/Les Boucles.md",
+    "Python/TP_Python2/exercice10.py",
+    "Python/TP_Python2/exercice9.py",
+    "Python/TP_Python2/exercice8.py",
+    "Python/TP_Python2/exercice7.py",
+    "Python/TP_Python2/exercice6.py",
+    "Python/TP_Python2/exercice5.py",
+    "Python/TP_Python2/exercice4.py",
+    "Python/TP_Python2/exercice3.py",
+    "Python/TP_Python2/exercice2.py",
+    "Cours/Algo/Entrainement Algo.md",
+    "Cours/Algo/Algèbre de Boole.md",
+    "Cours/Algo/Les Opérations.md",
+    "Cours/Algo/Types de donnée.md",
+    "Cours/Algo/Les Variables.md",
+    "2024-09-23.md",
+    "Cours/Algo/Algo 10-09-2024.md",
+    "Cours/Module A/Séance 1.md",
+    "Veille/2024-09-23.md",
     "[Algo 10-09-2024.md",
     "README.md",
-    "Veille/2024-09-23.md",
     "Veille/Ressources web.md",
-    "Cours/Algo/Algo 10-09-2024.md",
     "fonction.md",
-    "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
     "Cours/Algo",
-    "Cours/Sans titre 1",
-    "Cours/Module A",
-    "Veille",
-    "Cours",
     "ALGO/Sommaire.md",
-    "Welcome.md",
-    "ALGO",
-    "CSS",
-    "HTML"
+    "Welcome.md"
   ]
 }
