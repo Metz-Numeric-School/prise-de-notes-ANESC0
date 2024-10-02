@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Gestion de parc informatique/Tâches quotidiennes dans un Parc informatique.md",
+                "file": "Cours/Gestion de parc informatique/Adresse Statique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Gestion de parc informatique/Tâches quotidiennes dans un Parc informatique.md",
+                "file": "Cours/Gestion de parc informatique/Adresse Statique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Gestion de parc informatique/Tâches quotidiennes dans un Parc informatique.md",
+                "file": "Cours/Gestion de parc informatique/Adresse Statique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Gestion de parc informatique/Tâches quotidiennes dans un Parc informatique.md"
+                "file": "Cours/Gestion de parc informatique/Adresse Statique.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
-    "Cours/Algo/Les Fonctions.md",
+    "Cours/Gestion de parc informatique/~WRL3956.tmp",
+    "Cours/Gestion de parc informatique/~WRD3953.tmp",
+    "Cours/Gestion de parc informatique/Modification Network Editor.md",
+    "Cours/Gestion de parc informatique/Adresse Statique.md",
+    "Cours/Gestion de parc informatique/~WRL0348.tmp",
+    "Cours/Gestion de parc informatique/~WRD0344.tmp",
+    "Cours/Gestion de parc informatique/Cour 2.md",
     "Cours/Gestion de parc informatique/Tâches quotidiennes dans un Parc informatique.md",
+    "Cours/Algo/Les Fonctions.md",
     "Cours/Gestion de parc informatique",
     "Cours/Algo/Les listes.md",
     "Cours/Algo/Algèbre de Boole.md",
@@ -165,11 +172,8 @@
     "Cours/Algo/Types de donnée.md",
     "Python/Evaluation_python/exercice1.py",
     "Python/Evaluation_python/evaluation1.py",
-    "Python/Evaluation_python",
     "Cours/Algo/Algo 10-09-2024.md",
     "Cours/Algo/Les Boucles.md",
-    "Python/TP_Python2/exercice10.py",
-    "Python/TP_Python2/exercice9.py",
     "2024-09-23.md",
     "Cours/Module A/Séance 1.md",
     "Veille/2024-09-23.md",
