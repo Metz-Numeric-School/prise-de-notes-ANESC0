@@ -1,3 +1,4 @@
+###### Pour configurer une adresse en statique sur VMWorkstation
 
 IP ->   /etc/network/interfaces
 
