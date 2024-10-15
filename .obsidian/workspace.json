@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud computing/Cour N°2 2024-10-08.md",
+                "file": "Cours/Window Client/Cour N°1 - 2024-10-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AW",
+                "query": "tag:#obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cloud computing/Cour N°2 2024-10-08.md",
+                "file": "Cours/Window Client/Cour N°1 - 2024-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Cloud computing/Cour N°2 2024-10-08.md",
+                "file": "Cours/Window Client/Cour N°1 - 2024-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Cloud computing/Cour N°2 2024-10-08.md"
+                "file": "Cours/Window Client/Cour N°1 - 2024-10-15.md"
               }
             }
           }
@@ -148,41 +148,43 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
-    "Cours/Cloud computing/AWS/AWS EC2.md",
-    "Cours/Cloud computing/Cour N°2 2024-10-08.md",
-    "Cours/Cloud computing/AWS/AWS Lambda.md",
-    "Cours/Cloud computing/AWS",
-    "Cours/Cloud computing/AWS/AWS AMI.md",
-    "Cours/Cloud computing/Cour n° 1 2024-10-07.md",
-    "Cours/Cloud computing/AWS/AWS Elastic beenstalk.md",
-    "Cours/Gestion de parc informatique/Adresse Statique.md",
     "Cours/Gestion de parc informatique/Cour 2 N°2.md",
-    "Cours/Gestion de parc informatique/Gestion de la maintenance.md",
-    "Cours/Gestion de parc informatique/Modification Network Editor.md",
-    "Cours/Gestion de parc informatique/Tâches quotidiennes dans un Parc informatique.md",
+    "Cours/Gestion de parc informatique/TP",
+    "Cours/Gestion de parc informatique/TP/TP_Utilisation_de_GLPI_NA.pdf",
+    "Cours/Window Client/Cour N°1 - 2024-10-15.md",
+    "Cours/Anglais/Cour N°2 - 2024-10-14.md",
+    "Cours/Window Client",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS EC2.md",
+    "Cours/Cloud computing/Cour N°2 2024-10-08.md",
+    "Cours/Cloud computing/Cour n° 1 2024-10-07.md",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS AMI.md",
+    "Cours/Cloud computing/AWS/Services_AWS",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS Guide de l'étudiant.md",
+    "Cours/Cloud computing/AWS/Module_1",
+    "images/AWS",
+    "images/AWS/Pasted image 20241013211902.png",
+    "Cours/Anglais/Cour N°1 - 2024-10-09.md",
+    "Cours/Anglais",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS Elastic beenstalk.md",
+    "Cours/Cours juridiques/Cour n°1 - 2024-10-09.md",
+    "README.md",
+    "images/Cours juridiques/Pasted image 20241009093537.png",
     "AMI.md",
+    "Veille/Ressources web.md",
+    "images/Cours juridiques",
+    "Cours/Gestion de parc informatique/Ressources/Gestion de la maintenance.md",
+    "Cours/Gestion de parc informatique/Ressources",
+    "Cours/Gestion de parc informatique/Ressources/Adresse Statique.md",
+    "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
+    "Cours/Gestion de parc informatique/Ressources/Tâches quotidiennes dans un Parc informatique.md",
+    "Cours/Algo/Cour N°1 - 2024-09-23.md",
+    "Cours/Untitled.md",
+    "Cours/Module A/Séance 1.md",
+    "Cours/Algo/Concepts",
+    "Cours/Algo/Concepts/Algèbre de Boole.md",
     "2024-09-23.md",
-    "[Algo 10-09-2024.md",
-    "Pasted image 20241007100350.png",
-    "Cours/Cloud computing/Cour 1.md",
-    "Cours/Cloud computing",
-    "Cours/Gestion de parc informatique/~WRL3956.tmp",
-    "Cours/Gestion de parc informatique/~WRD3953.tmp",
-    "Cours/Gestion de parc informatique/~WRL0348.tmp",
-    "Cours/Gestion de parc informatique/~WRD0344.tmp",
-    "Cours/Algo/Les Fonctions.md",
-    "Cours/Gestion de parc informatique",
-    "Cours/Algo/Les listes.md",
-    "Cours/Algo/Algèbre de Boole.md",
-    "Cours/Algo/Entrainement.md",
-    "Cours/Algo/Les Opérations.md",
-    "Cours/Algo/Les Variables.md",
-    "Cours/Algo/Méthodes sur String.md",
-    "Python/Evaluation_python/exercice5.py",
-    "Python/Evaluation_python/exercice4.py",
-    "Python/Evaluation_python/exercice3.py",
-    "Cours/Algo/Les Opérateurs de comparaison.md",
-    "Cours/Algo/Types de donnée.md",
-    "Cours/Algo/Algo 10-09-2024.md"
+    "Cours/Cours juridiques/Untitled.md",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS Lambda.md",
+    "Pasted image 20241007100350.png"
   ]
 }
