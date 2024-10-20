@@ -16,10 +16,27 @@
                 "file": "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Vidéo M01-02"
+            }
+          },
+          {
+            "id": "f7c44006d3e85156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo M01-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vidéo M01-03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
+                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vidéo Conclusion"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
+                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vidéo Conclusion"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md"
-              }
+                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vidéo Conclusion"
             }
           }
         ]
@@ -146,22 +177,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c373b9d5d8d9f061",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "images/AWS/Pasted image 20241019014653.png",
-    "images/Cours juridiques/Pasted image 20241009093537.png",
-    "Pasted image 20241019014530.png",
-    "images/AWS/Pasted image 20241019014449.png",
-    "images/AWS/Pasted image 20241019014340.png",
-    "images/AWS/Pasted image 20241019014258.png",
-    "images/AWS/Pasted image 20241019014148.png",
-    "images/AWS/Pasted image 20241019014020.png",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-01.md",
-    "images/AWS/Pasted image 20241019004606.png",
-    "images/AWS/Pasted image 20241019003206.png",
-    "images/AWS/Pasted image 20241019002957.png",
+    "Cours/Cloud computing/AWS/Module_1/Guide de l'étudiant.md",
+    "images/AWS/Pasted image 20241020162256.png",
+    "images/AWS/Pasted image 20241020162231.png",
+    "Cours/Cloud computing/AWS/Module_1/Vidéo M01-04.md",
+    "images/AWS/Pasted image 20241020161647.png",
+    "images/AWS/Pasted image 20241020161545.png",
+    "images/AWS/Pasted image 20241020161454.png",
+    "images/AWS/Pasted image 20241020160706.png",
+    "Cours/Cloud computing/AWS/Module_1/Vidéo M01-03.md",
+    "images/AWS/Pasted image 20241020155749.png",
+    "images/AWS/Pasted image 20241020152429.png",
+    "images/AWS/Pasted image 20241020150730.png",
+    "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md",
+    "images/AWS/Pasted image 20241020150317.png",
+    "Cours/Cloud computing/Cour N°2 2024-10-08.md",
     "Cours/Cloud computing/Cour n° 1 2024-10-07.md",
+    "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
+    "Cours/Gestion de parc informatique/Ressources/Tâches quotidiennes dans un Parc informatique.md",
+    "Cours/Gestion de parc informatique/Ressources/Gestion de la maintenance.md",
+    "Cours/Gestion de parc informatique/Ressources/Adresse Statique.md",
     "Cours/Gestion de parc informatique/TP/TP_Utilisation_de_GLPI_NA.pdf",
     "Cours/Window Client/~WRL1739.tmp",
     "Cours/Window Client/~WRD1735.tmp",
@@ -176,7 +215,6 @@
     "Cours/Gestion de parc informatique/Cour 2 N°2.md",
     "Cours/Anglais/Cour N°2 - 2024-10-14.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS EC2.md",
-    "Cours/Cloud computing/Cour N°2 2024-10-08.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS AMI.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS Guide de l'étudiant.md",
     "Cours/Anglais/Cour N°1 - 2024-10-09.md",
@@ -185,14 +223,6 @@
     "README.md",
     "AMI.md",
     "Veille/Ressources web.md",
-    "Cours/Gestion de parc informatique/Ressources/Gestion de la maintenance.md",
-    "Cours/Gestion de parc informatique/Ressources/Adresse Statique.md",
-    "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
-    "Cours/Gestion de parc informatique/Ressources/Tâches quotidiennes dans un Parc informatique.md",
-    "Cours/Algo/Cour N°1 - 2024-09-23.md",
-    "Cours/Untitled.md",
-    "Cours/Module A/Séance 1.md",
-    "Cours/Algo/Concepts/Algèbre de Boole.md",
-    "2024-09-23.md"
+    "Cours/Algo/Cour N°1 - 2024-09-23.md"
   ]
 }

@@ -9,4 +9,4 @@ gateway 10.10.10.2
 dns-nameservers 8.8.8.8 4.4.4.4
 
 DNS ->    /etc/resolv.conf
-nameserber 10.10.10.2
+nameserver 10.10.10.2
