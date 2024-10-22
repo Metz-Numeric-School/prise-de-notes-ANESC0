@@ -1,3 +1,8 @@
+
+# Introduction au cloud computing
+
+--------------------------------------------------------------------------
+
 ![[Pasted image 20241020150317.png]]
 Le **cloud computing** désigne la mise à disposition à la demande de ressources informatiques telles que la puissance de calcul, le stockage, les bases de données, les applications, et bien d'autres, via Internet. Ces services sont facturés en fonction de l'utilisation réelle.
 

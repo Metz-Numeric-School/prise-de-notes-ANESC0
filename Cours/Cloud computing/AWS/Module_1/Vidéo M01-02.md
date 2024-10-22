@@ -1,6 +1,7 @@
-# 6 Avantages de passer au Cloud :
 
+# Avantages du Cloud :
 
+--------------------------------------------------------------------------
 ## Avantage 1 : Transformation des dépenses d’investissement en coûts variables
 
 ![[Pasted image 20241019014020.png]]
