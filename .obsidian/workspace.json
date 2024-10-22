@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_2/Vidéo de conclusion.md",
+                "file": "Cours/Cloud computing/AWS/Module_3/Vidéo M03-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vidéo de conclusion"
+              "title": "Vidéo M03-01"
             }
           }
         ],
@@ -179,31 +179,35 @@
   },
   "active": "f7c44006d3e85156",
   "lastOpenFiles": [
+    "Cours/Cloud computing/AWS/Module_3/Vidéo M03-02.md",
+    "Cours/Cloud computing/Cour N°1 2024-10-07.md",
+    "Cours/Cloud computing/AWS/Module_3/Vidéo M03-01.md",
+    "images/AWS/Pasted image 20241023010924.png",
+    "images/AWS/Pasted image 20241023010454.png",
+    "images/AWS/Pasted image 20241023010440.png",
+    "images/AWS/Pasted image 20241023010414.png",
+    "images/AWS/Pasted image 20241023010341.png",
+    "images/AWS/Pasted image 20241023010311.png",
+    "images/AWS/Pasted image 20241023010243.png",
+    "images/AWS/Pasted image 20241023010158.png",
+    "images/AWS/Pasted image 20241023010129.png",
+    "images/AWS/Pasted image 20241023005300.png",
+    "Cours/Window Client/~$_N1_DNS.doc",
+    "Cours/Cloud computing/AWS/Module_2/Vidéo de conclusion.md",
+    "Cours/Cloud computing/AWS/Module_3",
     "Cours/Cloud computing/AWS/Module_2/Vidéo M2-06.md",
     "Cours/Cloud computing/AWS/Module_2/Vidéo M2-05.md",
     "Cours/Cloud computing/AWS/Module_2/Vidéo M2-04.md",
     "Cours/Cloud computing/AWS/Module_2/Vidéo M2-02.md",
     "Cours/Cloud computing/AWS/Module_2/Vidéo M2-01.md",
-    "images/AWS/Pasted image 20241021165324.png",
     "Cours/Cloud computing/AWS/Module_2/Guide de l'étudiant.md",
-    "images/AWS/Pasted image 20241021162228.png",
     "Cours/Cloud computing/AWS/Module_1/Guide de l'étudiant.md",
-    "Cours/Cloud computing/AWS/Module_2/Vidéo de conclusion.md",
-    "images/AWS/Pasted image 20241021161947.png",
-    "images/AWS/Pasted image 20241021161936.png",
-    "images/AWS/Pasted image 20241021161738.png",
-    "images/AWS/Pasted image 20241021161608.png",
-    "images/AWS/Pasted image 20241021161346.png",
-    "images/AWS/Pasted image 20241021161154.png",
-    "images/AWS/Pasted image 20241021161101.png",
-    "images/AWS/Pasted image 20241021160127.png",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-04.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-03.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-01.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS EC2.md",
     "Cours/Cloud computing/AWS/Module_2/EDC S2.md",
-    "Cours/Cloud computing/Cour N°1 2024-10-07.md",
     "Cours/Cloud computing/AWS/Module_2",
     "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md",
     "Cours/Cloud computing/Cour N°2 2024-10-08.md",
@@ -218,11 +222,7 @@
     "Cours/Window Client/~WRD0004.tmp",
     "Cours/Window Client/~WRL0003.tmp",
     "Cours/Window Client/~WRD0002.tmp",
-    "Cours/Window Client/~$_N1_DNS.doc",
-    "Cours/Window Client/~WRL0001.tmp",
     "Cours/Window Client/Cour N°1 - 2024-10-15.md",
-    "Cours/Gestion de parc informatique/Cour 2 N°2.md",
-    "Cours/Anglais/Cour N°2 - 2024-10-14.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS AMI.md"
+    "Cours/Gestion de parc informatique/Cour 2 N°2.md"
   ]
 }
