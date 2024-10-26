@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_3/Vidéo M03-01.md",
+                "file": "Cours/Cloud computing/AWS/Module_4/Vidéo M04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vidéo M03-01"
+              "title": "Vidéo M04-01"
+            }
+          },
+          {
+            "id": "475be6b6033beebd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/AWS/Pasted image 20241026014008.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241026014008"
             }
           }
         ],
@@ -177,21 +189,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7c44006d3e85156",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
+    "Cours/Cloud computing/AWS/Module_5",
+    "Cours/Cloud computing/AWS/Untitled.md",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-01.md",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-07.md",
+    "images/AWS/Pasted image 20241026015909.png",
+    "images/AWS/Pasted image 20241026015815.png",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-06.md",
+    "images/AWS/Pasted image 20241026015722.png",
+    "images/AWS/Pasted image 20241026015624.png",
+    "images/AWS/Pasted image 20241026015531.png",
+    "images/AWS/Pasted image 20241026015419.png",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-05.md",
+    "images/AWS/Pasted image 20241026014953.png",
+    "images/AWS/Pasted image 20241026014823.png",
+    "images/AWS/Pasted image 20241026014651.png",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-04.md",
+    "images/AWS/Pasted image 20241026014303.png",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-03.md",
+    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-02.md",
+    "Cours/Cloud computing/AWS/Module_3/Vidéo M03-01.md",
+    "Cours/Cloud computing/AWS/Module_4",
     "Cours/Cloud computing/AWS/Module_3/Vidéo M03-02.md",
     "Cours/Cloud computing/Cour N°1 2024-10-07.md",
-    "Cours/Cloud computing/AWS/Module_3/Vidéo M03-01.md",
-    "images/AWS/Pasted image 20241023010924.png",
-    "images/AWS/Pasted image 20241023010454.png",
-    "images/AWS/Pasted image 20241023010440.png",
-    "images/AWS/Pasted image 20241023010414.png",
-    "images/AWS/Pasted image 20241023010341.png",
-    "images/AWS/Pasted image 20241023010311.png",
-    "images/AWS/Pasted image 20241023010243.png",
-    "images/AWS/Pasted image 20241023010158.png",
-    "images/AWS/Pasted image 20241023010129.png",
-    "images/AWS/Pasted image 20241023005300.png",
     "Cours/Window Client/~$_N1_DNS.doc",
     "Cours/Cloud computing/AWS/Module_2/Vidéo de conclusion.md",
     "Cours/Cloud computing/AWS/Module_3",
@@ -209,20 +231,11 @@
     "Cours/Cloud computing/AWS/Services_AWS/AWS EC2.md",
     "Cours/Cloud computing/AWS/Module_2/EDC S2.md",
     "Cours/Cloud computing/AWS/Module_2",
-    "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md",
-    "Cours/Cloud computing/Cour N°2 2024-10-08.md",
-    "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
-    "Cours/Gestion de parc informatique/Ressources/Tâches quotidiennes dans un Parc informatique.md",
-    "Cours/Gestion de parc informatique/Ressources/Gestion de la maintenance.md",
-    "Cours/Gestion de parc informatique/Ressources/Adresse Statique.md",
     "Cours/Gestion de parc informatique/TP/TP_Utilisation_de_GLPI_NA.pdf",
     "Cours/Window Client/~WRL1739.tmp",
     "Cours/Window Client/~WRD1735.tmp",
     "Cours/Window Client/~WRL0005.tmp",
     "Cours/Window Client/~WRD0004.tmp",
-    "Cours/Window Client/~WRL0003.tmp",
-    "Cours/Window Client/~WRD0002.tmp",
-    "Cours/Window Client/Cour N°1 - 2024-10-15.md",
-    "Cours/Gestion de parc informatique/Cour 2 N°2.md"
+    "Cours/Window Client/~WRL0003.tmp"
   ]
 }
