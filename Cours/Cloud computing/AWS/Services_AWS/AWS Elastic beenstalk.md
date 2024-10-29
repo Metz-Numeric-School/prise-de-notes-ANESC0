@@ -1,5 +1,7 @@
+![[Pasted image 20241029142906.png]]
 
-est idéal pour les développeurs qui veulent se concentrer sur leur application sans se soucier de la gestion de l'infrastructure.
+
+**AWS Elastic Beanstalk** est une plateforme en tant que service (PaaS) qui facilite le déploiement, la mise à l'échelle et la gestion d'applications et de services web. C'est est idéal pour les développeurs qui veulent se concentrer sur leur application sans se soucier de la gestion de l'infrastructure.
 
 - **Déploiement rapide** : Tu peux déployer des applications dans plusieurs langages (Java, Python, Node.js, Ruby, PHP, etc.) sans avoir à gérer l'infrastructure.
 - **Automatisation** : Elastic Beanstalk gère automatiquement le provisionnement des serveurs, la mise à l’échelle, le monitoring et les mises à jour des instances EC2.

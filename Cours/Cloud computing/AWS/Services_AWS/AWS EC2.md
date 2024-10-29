@@ -1,6 +1,38 @@
 ### *Elastic Compute Cloud
 
-est un service de calcul cloud qui permet de louer des machines virtuelles (instances) pour exécuter des applications dans le cloud AWS. Il offre une flexibilité et une échelle de calcul élastique, ajustable en fonction des besoins.
+![[Pasted image 20241029134928.png]]
+
+La dénomination **EC2** dans **Amazon EC2** signifie **Elastic Compute Cloud**, qui se décompose comme suit :
+
+- **Elastic** : Cela fait référence à la capacité d’**ajuster dynamiquement** le nombre de serveurs utilisés pour prendre en charge une application. Vous pouvez facilement augmenter ou diminuer le nombre d’instances, ainsi que la taille des serveurs existants, en fonction de la demande.
+
+- **Compute** : Ce terme souligne l’objectif principal des utilisateurs, qui est d’exécuter des serveurs pour des tâches telles que l’hébergement d’applications ou le traitement de données. Ces activités nécessitent des **ressources de calcul**, y compris la puissance de traitement (CPU) et la mémoire (RAM).
+
+- **Cloud** : Cela indique que les instances EC2 sont hébergées dans le **cloud**, offrant ainsi des avantages tels que la scalabilité et la flexibilité.
+
+Amazon EC2 fournit des **machines virtuelles** dans le cloud, donnant aux utilisateurs un **contrôle administratif total** sur le système d'exploitation qui s'exécute sur l'instance, que ce soit Windows ou Linux. Les systèmes d'exploitation pris en charge incluent :
+
+- Windows Server 2008, 2012, 2016 et 2019
+- Red Hat
+- SuSE
+- Ubuntu
+- Amazon Linux
+
+Un système d'exploitation qui fonctionne sur une machine virtuelle est souvent désigné comme un **système d'exploitation invité**, en opposition au **système d'exploitation hôte**, qui est installé directement sur le serveur physique.
+
+Avec Amazon EC2, vous avez la possibilité de **lancer un nombre illimité d’instances** de n'importe quelle taille dans n'importe quelle zone de disponibilité à travers le monde, et ce, en quelques minutes. Les instances sont lancées à partir d'**Amazon Machine Images (AMI)**, qui sont des modèles de machines virtuelles, abordés plus en détail dans le module.
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
+
+
 
 1. **Machines virtuelles** : EC2 permet de lancer des instances (machines virtuelles) avec des configurations personnalisables de CPU, mémoire, stockage, et réseau.
 2. **Scalabilité** : EC2 s'adapte à la demande avec des capacités de mise à l'échelle verticale (changer la taille de l'instance) ou horizontale (ajouter plus d'instances).

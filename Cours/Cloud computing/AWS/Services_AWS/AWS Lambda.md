@@ -1,3 +1,7 @@
+
+
+![[Pasted image 20241029142607.png]]
+
 est un service de calcul **serverless** qui permet d'exécuter du code en réponse à des évaénements sans avoir à gérer de serveurs. Il est idéal pour les tâches ponctuelles ou événementielles et fonctionne sur la base d'un modèle de facturation **à l'utilisation** (pay-as-you-go).
 
 1. **Sans gestion de serveurs** : AWS gère automatiquement l'infrastructure, de sorte que tu n'as pas besoin de provisionner ni de gérer des serveurs.
