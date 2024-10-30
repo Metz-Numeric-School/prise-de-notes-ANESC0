@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_6/Vidéo M06-06.md",
+                "file": "Cours/Cloud computing/AWS/Module_7/Vidéo M7-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vidéo M06-06"
+              "title": "Vidéo M7-04"
             }
           }
         ]
@@ -162,15 +162,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "505c9b1ffad11e82",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
+    "images/AWS/Pasted image 20241030024553.png",
+    "images/AWS/Pasted image 20241030024533.png",
+    "images/AWS/Pasted image 20241030024400.png",
+    "images/AWS/Pasted image 20241030024329.png",
+    "images/AWS/Pasted image 20241030024223.png",
+    "images/AWS/Pasted image 20241030024113.png",
+    "images/AWS/Pasted image 20241030024024.png",
+    "images/AWS/Pasted image 20241030023901.png",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS S3 Glacier.md",
+    "images/AWS/Pasted image 20241030023803.png",
+    "images/AWS/Pasted image 20241030023735.png",
+    "Cours/Cloud computing/AWS/Module_7/Vidéo M7-04.md",
+    "Cours/Cloud computing/AWS/Module_7/Vidéo M07-03.md",
+    "images/AWS/Pasted image 20241030023639.png",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS EFS.md",
+    "Cours/Cloud computing/AWS/Module_7/Vidéo M7-02.md",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS S3.md",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS Lambda.md",
+    "Cours/Cloud computing/AWS/Module_7/Vidéo M07-01.md",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS EBS.md",
+    "Cours/Cloud computing/AWS/Module_6/Vidéo M06-06.md",
+    "Cours/Cloud computing/AWS/Module_7",
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-05.md",
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-04.md",
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-03.md",
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-02.md",
-    "Cours/Cloud computing/AWS/Module_6/Vidéo M06-06.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS Elastic beenstalk.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS Lambda.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS Guide de l'étudiant.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS EKS.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS ECR.md",
@@ -178,38 +198,18 @@
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-01.md",
     "Cours/Cloud computing/AWS/Module_5/Vidéo M05-05.md",
     "Cours/Cloud computing/AWS/Module_5/Vidéo M05-06.md",
-    "images/AWS/Pasted image 20241029141134.png",
-    "images/AWS/Pasted image 20241029141609.png",
-    "images/AWS/Pasted image 20241029141727.png",
-    "images/AWS/Pasted image 20241029143056.png",
-    "images/AWS/Pasted image 20241029141134.png",
-    "images/AWS/Pasted image 20241029141041.png",
-    "images/AWS/Pasted image 20241029140955.png",
-    "images/AWS/Pasted image 20241029140709.png",
-    "images/AWS/Pasted image 20241029140608.png",
-    "images/AWS/Pasted image 20241029140453.png",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
     "Cours/Cloud computing/Cour N°1 2024-10-07.md",
     "movePic.py",
     "Cours/Cloud computing/AWS/Module_6",
     "Cours/Cloud computing/AWS/Services_AWS/AWS Amazon CloudFront.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS Amazon Route 53.md",
-    "Cours/Cloud computing/AWS/Module_5/Vidéo M05-04.md",
-    "Cours/Cloud computing/AWS/Module_5/Vidéo M05-03.md",
-    "Cours/Cloud computing/AWS/Module_5/Vidéo M05-02.md",
     "Untitled.canvas",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS VPC.md",
-    "Cours/Cloud computing/AWS/Module_5/Vidéo M05-01.md",
-    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-01.md",
     "Cours/Cloud computing/AWS/Module_5",
-    "Cours/Cloud computing/AWS/Untitled.md",
-    "Cours/Cloud computing/AWS/Module_4/Vidéo M04-07.md",
     "Cours/Cloud computing/AWS/Module_4",
     "Cours/Window Client/~$_N1_DNS.doc",
     "Cours/Cloud computing/AWS/Module_3",
     "Cours/Cloud computing/AWS/Module_2",
     "Cours/Gestion de parc informatique/TP/TP_Utilisation_de_GLPI_NA.pdf",
-    "Cours/Window Client/~WRL1739.tmp",
-    "Cours/Window Client/~WRD1735.tmp"
+    "Cours/Window Client/~WRL1739.tmp"
   ]
 }
