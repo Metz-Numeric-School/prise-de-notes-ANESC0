@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_8/Vidéo M8-04.md",
+                "file": "Cours/Cloud computing/AWS/Module_2/Vidéo M2-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vidéo M8-04"
+              "title": "Vidéo M2-02"
             }
           }
         ]
@@ -162,22 +162,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "505c9b1ffad11e82",
   "lastOpenFiles": [
-    "images/AWS/Pasted image 20241030215820.png",
-    "images/AWS/Pasted image 20241030215737.png",
-    "images/AWS/Pasted image 20241030215546.png",
-    "images/AWS/Pasted image 20241030215537.png",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS Aurora.md",
-    "images/AWS/Pasted image 20241030215500.png",
+    "Cours/Cloud computing/AWS/Module_2/Vidéo M2-01.md",
+    "Cours/Cloud computing/AWS/Module_10/Vidéo M10-03.md",
+    "images/AWS/Pasted image 20241031151011.png",
+    "images/AWS/Pasted image 20241031151000.png",
+    "images/AWS/Pasted image 20241031150944.png",
+    "images/AWS/Pasted image 20241031150932.png",
+    "images/AWS/Pasted image 20241031150821.png",
+    "images/AWS/Pasted image 20241031150812.png",
+    "images/AWS/Pasted image 20241031150759.png",
+    "images/AWS/Pasted image 20241031150734.png",
+    "images/AWS/Pasted image 20241031150726.png",
+    "images/AWS/Pasted image 20241031150635.png",
+    "Cours/Cloud computing/AWS/Module_10/Vidéo M10-02.md",
+    "Cours/Cloud computing/AWS/Module_10/Vidéo M10-01.md",
+    "Cours/Cloud computing/AWS/Module_9/Vidéo M9-03.md",
+    "Cours/Cloud computing/AWS/Module_10",
+    "Cours/Cloud computing/AWS/Module_9/Vidéo M9-02.md",
+    "Cours/Cloud computing/AWS/Module_9/Vidéo M9-01.md",
     "Cours/Cloud computing/AWS/Module_8/Vidéo M8-04.md",
+    "Cours/Cloud computing/AWS/Module_9",
+    "Cours/Cloud computing/AWS/Services_AWS/AWS Aurora.md",
     "Cours/Cloud computing/AWS/Module_8/Vidéo M8-03.md",
-    "images/AWS/Pasted image 20241030215414.png",
-    "images/AWS/Pasted image 20241030215352.png",
-    "images/AWS/Pasted image 20241030215341.png",
-    "images/AWS/Pasted image 20241030215318.png",
-    "images/AWS/Pasted image 20241030215237.png",
-    "images/AWS/Pasted image 20241030215200.png",
     "Cours/Cloud computing/AWS/Services_AWS/AWS Redshift.md",
     "Cours/Cloud computing/AWS/Module_8/Vidéo M8-02.md",
     "Cours/Cloud computing/AWS/Services_AWS/AWS DynamoDB.md",
@@ -196,20 +204,12 @@
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-06.md",
     "Cours/Cloud computing/AWS/Module_7",
     "Cours/Cloud computing/AWS/Module_6/Vidéo M06-05.md",
-    "Cours/Cloud computing/AWS/Module_6/Vidéo M06-04.md",
-    "Cours/Cloud computing/AWS/Module_6/Vidéo M06-03.md",
-    "Cours/Cloud computing/AWS/Module_6/Vidéo M06-02.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS Elastic beenstalk.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS Guide de l'étudiant.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS EKS.md",
     "movePic.py",
     "Cours/Cloud computing/AWS/Module_6",
     "Untitled.canvas",
     "Cours/Cloud computing/AWS/Module_5",
     "Cours/Cloud computing/AWS/Module_4",
     "Cours/Window Client/~$_N1_DNS.doc",
-    "Cours/Cloud computing/AWS/Module_3",
-    "Cours/Cloud computing/AWS/Module_2",
-    "Cours/Gestion de parc informatique/TP/TP_Utilisation_de_GLPI_NA.pdf"
+    "Cours/Cloud computing/AWS/Module_3"
   ]
 }
