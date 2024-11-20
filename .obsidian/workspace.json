@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Conception de projet informatique/2024-11-06.md",
+                "file": "Cours/Architecture réseau/2024-11-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-06"
+              "title": "2024-11-05"
+            }
+          },
+          {
+            "id": "21e0e91cc2c1ed76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Anglais/Cour Récap -2024-11-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cour Récap -2024-11-19"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -162,17 +178,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "505c9b1ffad11e82",
+  "active": "21e0e91cc2c1ed76",
   "lastOpenFiles": [
+    "Cours/Anglais/Cour N°3 - 2024-11-13.md",
+    "Cours/Anglais/Cour N°4 - 2024-11-12.md",
+    "Cours/Anglais/Cour N°2 - 2024-10-14.md",
+    "Cours/Anglais/Cour Récap -2024-11-19.md",
+    "Cours/Conception de projet informatique/Cour N°2 - 2024-11-18.md",
+    "Cours/Conception de projet informatique/Cour N°1 - 2024-11-06.md",
+    "Cours/Architecture réseau/Procédures étapes/Procédure 1.md",
+    "Cours/Architecture réseau/Procédure Propre.md",
+    "Cours/Architecture réseau/protocole vtp.md",
+    "Cours/Architecture réseau/procédure test.md",
+    "Cours/Architecture réseau/2024-11-04.md",
+    "Cours/Architecture réseau/2024-11-05.md",
+    "Cours/Cours juridiques/Untitled.md",
+    "Pasted image 20241117173026.png",
+    "Cours/Architecture réseau/Procédures étapes",
+    "Cours/Cours juridiques/Cour n°1 - 2024-10-09.md",
+    "Cours/Architecture réseau/~$océdure1.doc",
+    "Cours/Architecture réseau/~WRL0335.tmp",
+    "Cours/Architecture réseau/~WRD0331.tmp",
+    "Cours/Architecture réseau/~WRL0712.tmp",
+    "Cours/Architecture réseau/~WRD0708.tmp",
+    "Cours/Architecture réseau/~WRL0005.tmp",
+    "Cours/Architecture réseau/~WRD0004.tmp",
+    "Cours/Architecture réseau/~WRL0003.tmp",
+    "Cours/Architecture réseau/~WRD0002.tmp",
+    "images/Cours juridiques/Pasted image 20241009093537.png",
     "Cours/Cloud computing/AWS/Module_4/Vidéo M04-05.md",
-    "Cours/Conception de projet informatique/2024-11-06.md",
     "images/Pasted image 20241105085312.png",
     "Pasted image 20241105104511.png",
     "Pasted image 20241105104449.png",
     "README.md",
     "Cours/Cloud computing/AWS/Module_1/Guide de l'étudiant.md",
-    "Cours/Conception de projet informatique/Untitled",
-    "Cours/Conception de projet informatique",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-02.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-01.md",
     "Cours/Cloud computing/AWS/Module_4/Vidéo M04-03.md",
@@ -181,34 +220,12 @@
     "Cours/Cloud computing/AWS/Module_7/Vidéo M7-02.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-04.md",
     "Cours/Cloud computing/AWS/Module_1/Vidéo M01-03.md",
-    "Cours/Architecture réseau/2024-11-05.md",
-    "Cours/Architecture réseau/exemple4.pkt~",
-    "Cours/Architecture réseau/exemple4.pkt",
-    "Cours/Architecture réseau/exemple3.pkt",
-    "Cours/Architecture réseau/exemple2.pkt",
-    "Cours/Architecture réseau/exemple1.pkt",
-    "Cours/Architecture réseau/TP_1.pkt~",
-    "Cours/Architecture réseau/TP_2.pkt~",
-    "Cours/Architecture réseau/2024-11-04.md",
-    "Cours/Architecture réseau/protocole vtp.md",
-    "Cours/Architecture réseau/TP_2.pkt",
     "Cours/Cloud computing/AWS/Module_2/Vidéo M2-02.md",
-    "Cours/Cloud computing/AWS/Module_2/Vidéo M2-01.md",
-    "Cours/Cloud computing/AWS/Module_10/Vidéo M10-03.md",
     "images/AWS/Pasted image 20241031151011.png",
     "images/AWS/Pasted image 20241031151000.png",
     "images/AWS/Pasted image 20241031150944.png",
     "images/AWS/Pasted image 20241031150932.png",
     "images/AWS/Pasted image 20241031150821.png",
-    "images/AWS/Pasted image 20241031150812.png",
-    "images/AWS/Pasted image 20241031150759.png",
-    "Cours/Cloud computing/AWS/Module_10/Vidéo M10-02.md",
-    "Cours/Cloud computing/AWS/Module_10/Vidéo M10-01.md",
-    "Cours/Cloud computing/AWS/Module_9/Vidéo M9-03.md",
-    "Cours/Cloud computing/AWS/Module_9/Vidéo M9-02.md",
-    "Cours/Cloud computing/AWS/Module_9/Vidéo M9-01.md",
-    "Cours/Cloud computing/AWS/Module_8/Vidéo M8-04.md",
-    "Cours/Cloud computing/AWS/Services_AWS/AWS Aurora.md",
     "Untitled.canvas"
   ]
 }
