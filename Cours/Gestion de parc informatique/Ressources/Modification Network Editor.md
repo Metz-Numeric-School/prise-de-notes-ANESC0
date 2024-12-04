@@ -11,3 +11,15 @@
 # Setting des VM's
 
 -choisir custom -> VMNet 0 (NAT)
+
+
+![[Pasted image 20241125092613.png]]
+
+----
+
+
+![[Pasted image 20241125092520.png]]
+
+
+
+-----
