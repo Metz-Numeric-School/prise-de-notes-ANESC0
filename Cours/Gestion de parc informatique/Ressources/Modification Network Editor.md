@@ -17,6 +17,14 @@
 
 ----
 
+## Mettre la passerelle : 
+
+
+![[Pasted image 20241209092337.png]]
+
+----
+
+
 
 ![[Pasted image 20241125092520.png]]
 

@@ -11,35 +11,15 @@
             "id": "505c9b1ffad11e82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cours/Architecture réseau/2024-11-05.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Config/Pasted image 20241209092337.png"
               },
-              "icon": "lucide-file",
-              "title": "2024-11-05"
-            }
-          },
-          {
-            "id": "21e0e91cc2c1ed76",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241209092337"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,9 +160,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21e0e91cc2c1ed76",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "images/Pasted image 20241117173026.png",
+    "images/Config/Pasted image 20241204204014.png",
+    "images/Config",
+    "images/Config/Pasted image 20241209092337.png",
+    "images/Config/Pasted image 20241117173026.png",
+    "Cours/Conception de projet informatique/Plage pour VLAN.md",
+    "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
+    "Cours/Windows Client Avancé/Compte-rendus/TP_N°1_WCA.pdf",
+    "Cours/Windows Client Avancé/Compte-rendus/~WRL0003.tmp",
+    "Cours/Windows Client Avancé/Compte-rendus/~WRD0002.tmp",
+    "Cours/Windows Client Avancé/Compte-rendus/~$_N°2_WCA.doc",
+    "Cours/Windows Serveur/~WRL0003.tmp",
+    "Cours/Windows Serveur/~WRD0002.tmp",
+    "Cours/Windows Serveur/~$P_N3-2.doc",
+    "Cours/Windows Serveur/~WRL1133.tmp",
+    "Cours/Windows Serveur/~WRD1125.tmp",
+    "Cours/Windows Client Avancé/Cour N°1 - 2024-11-20.md",
+    "Cours/Scripting Powershell/Configuration PC.md",
+    "Cours/Architecture réseau/2024-11-05.md",
+    "Cours/Windows Serveur/Cour N°1 - 2024-10-15.md",
+    "Certifications/Python/cour 1.md",
+    "Cours/Architecture réseau/PNETLAB/mdp pnet.md",
+    "Cours/Architecture réseau/PNETLAB/Configurations.md",
+    "Cours/Architecture réseau/protocole vtp.md",
+    "Cours/Architecture réseau/2024-11-04.md",
+    "Cours/Architecture réseau/Procédure Propre.md",
+    "Cours/Conception de projet informatique/Cour N°1 - 2024-11-06.md",
+    "Untitled.canvas",
     "images/Scripting Powershell/Pasted image 20241204111708.png",
     "images/Scripting Powershell/Pasted image 20241204111628.png",
     "images/Scripting Powershell/Pasted image 20241204111534.png",
@@ -190,7 +196,6 @@
     "images/Scripting Powershell/Pasted image 20241105085312.png",
     "images/Scripting Powershell/Pasted image 20241125092520.png",
     "images/Scripting Powershell/Pasted image 20241125092613.png",
-    "Cours/Scripting Powershell/Configuration PC.md",
     "Cours/Scripting Powershell/Etapes/CONCLUSION.md",
     "Cours/Scripting Powershell/Etapes/s.md",
     "Cours/Scripting Powershell/Etapes/README.md",
@@ -202,31 +207,6 @@
     "Cours/Scripting Powershell/Etapes/04 -  Mise à Jour de Server1.md",
     "Cours/Scripting Powershell/Etapes/02 - Configuration des Interfaces Réseau.md",
     "Cours/Scripting Powershell/Etapes/01 - Installation et Configuration du Laboratoire.md",
-    "Cours/Scripting Powershell/Etapes/00 - Installation et utilisation de sudo.md",
-    "Cours/Scripting Powershell/Etapes/03 - Connexion SSH aux Serveurs.md",
-    "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
-    "images/Scripting Powershell",
-    "Pasted image 20241125092532.png",
-    "Cours/Gestion de parc informatique/Ressources/Adresse Statique.md",
-    "Cours/Conception de projet informatique/Plage pour VLAN.md",
-    "Cours/Scripting Powershell/Etapes/LICENSE",
-    "Cours/Scripting Powershell/Etapes",
-    "Cours/Scripting Powershell",
-    "Cours/Conception de projet informatique/Cour N°2 - 2024-11-18.md",
-    "Cours/Conception de projet informatique/Cour N°1 - 2024-11-06.md",
-    "Cours/Windows Client Avancé/Cour N°1 - 2024-11-20.md",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRL3675.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRD3668.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRL0532.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRD0520.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRL1873.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRD1861.tmp",
-    "Cours/Anglais/Cour Récap -2024-11-19.md",
-    "Cours/Anglais/Cour N°3 - 2024-11-13.md",
-    "Cours/Anglais/Cour N°4 - 2024-11-12.md",
-    "Cours/Anglais/Cour N°2 - 2024-10-14.md",
-    "Cours/Architecture réseau/Procédures étapes/Procédure 1.md",
-    "images/Cours juridiques/Pasted image 20241009093537.png",
-    "Untitled.canvas"
+    "Cours/Scripting Powershell/Etapes/00 - Installation et utilisation de sudo.md"
   ]
 }
