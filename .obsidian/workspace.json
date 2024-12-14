@@ -11,12 +11,14 @@
             "id": "505c9b1ffad11e82",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Config/Pasted image 20241209092337.png"
+                "file": "Cours/Architecture réseau/Procédures étapes/Ordre logique.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241209092337"
+              "icon": "lucide-file",
+              "title": "Ordre logique"
             }
           }
         ]
@@ -160,33 +162,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "505c9b1ffad11e82",
   "lastOpenFiles": [
+    "Cours/Windows Client Avancé/Compte-rendus/~WRL0003.tmp",
+    "Cours/Windows Client Avancé/Compte-rendus/~WRD0002.tmp",
+    "Cours/Windows Client Avancé/Compte-rendus/~$_N°2_WCA.doc",
+    "Cours/Architecture réseau/2024-11-05.md",
+    "Cours/Architecture réseau/Procédures étapes/Ordre logique.md",
+    "Cours/Architecture réseau/2024-11-04.md",
+    "Cours/Architecture réseau/Procédures étapes/Procédure 1.md",
+    "Cours/Architecture réseau/PNETLAB/Configurations.md",
+    "Cours/Architecture réseau/PNETLAB/mdp pnet.md",
+    "Cours/Architecture réseau/protocole vtp.md",
+    "Cours/Architecture réseau/Procédure Propre.md",
+    "Cours/Windows Serveur/Cour N°2 - 2024-12-10.md",
+    "Cours/Windows Serveur/Cour N°1 - 2024-10-15.md",
+    "Cours/Windows Serveur/TP",
+    "images/Config/Pasted image 20241209092337.png",
     "images/Config/Pasted image 20241204204014.png",
     "images/Config",
-    "images/Config/Pasted image 20241209092337.png",
     "images/Config/Pasted image 20241117173026.png",
     "Cours/Conception de projet informatique/Plage pour VLAN.md",
     "Cours/Gestion de parc informatique/Ressources/Modification Network Editor.md",
     "Cours/Windows Client Avancé/Compte-rendus/TP_N°1_WCA.pdf",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRL0003.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~WRD0002.tmp",
-    "Cours/Windows Client Avancé/Compte-rendus/~$_N°2_WCA.doc",
     "Cours/Windows Serveur/~WRL0003.tmp",
     "Cours/Windows Serveur/~WRD0002.tmp",
     "Cours/Windows Serveur/~$P_N3-2.doc",
     "Cours/Windows Serveur/~WRL1133.tmp",
-    "Cours/Windows Serveur/~WRD1125.tmp",
     "Cours/Windows Client Avancé/Cour N°1 - 2024-11-20.md",
     "Cours/Scripting Powershell/Configuration PC.md",
-    "Cours/Architecture réseau/2024-11-05.md",
-    "Cours/Windows Serveur/Cour N°1 - 2024-10-15.md",
     "Certifications/Python/cour 1.md",
-    "Cours/Architecture réseau/PNETLAB/mdp pnet.md",
-    "Cours/Architecture réseau/PNETLAB/Configurations.md",
-    "Cours/Architecture réseau/protocole vtp.md",
-    "Cours/Architecture réseau/2024-11-04.md",
-    "Cours/Architecture réseau/Procédure Propre.md",
     "Cours/Conception de projet informatique/Cour N°1 - 2024-11-06.md",
     "Untitled.canvas",
     "images/Scripting Powershell/Pasted image 20241204111708.png",
@@ -204,9 +209,6 @@
     "Cours/Scripting Powershell/Etapes/08 - Transformation de Server2 en Serveur LAMP.md",
     "Cours/Scripting Powershell/Etapes/06 - Transformation de Server1 en Serveur DNS.md",
     "Cours/Scripting Powershell/Etapes/05 - Transformation de Server1 en Passerelle Réseau.md",
-    "Cours/Scripting Powershell/Etapes/04 -  Mise à Jour de Server1.md",
-    "Cours/Scripting Powershell/Etapes/02 - Configuration des Interfaces Réseau.md",
-    "Cours/Scripting Powershell/Etapes/01 - Installation et Configuration du Laboratoire.md",
-    "Cours/Scripting Powershell/Etapes/00 - Installation et utilisation de sudo.md"
+    "Cours/Scripting Powershell/Etapes/04 -  Mise à Jour de Server1.md"
   ]
 }
