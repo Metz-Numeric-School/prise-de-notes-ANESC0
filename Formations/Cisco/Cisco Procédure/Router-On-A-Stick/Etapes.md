@@ -254,7 +254,3 @@ Router(config-dhcp)# exit
     ```
     
 - Testez la connectivité entre les VLANs avec des commandes **ping** entre PC.
-
----
-
-Avec cette méthode, vous avez une configuration fonctionnelle et centralisée grâce au VTP. Si besoin, je peux vous aider à automatiser certaines parties ! 😊

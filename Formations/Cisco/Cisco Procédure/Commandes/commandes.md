@@ -169,5 +169,3 @@ Voici une liste de commandes **Cisco IOS** qui te permettront d'afficher des inf
 - **`show spanning-tree`** : Vérifie l'état du STP (Spanning Tree Protocol).
 
 Ces commandes devraient couvrir la plupart des informations nécessaires pour diagnostiquer les problèmes de connectivité, vérifier la configuration des interfaces, des VLANs, et assurer un bon routage entre les VLANs.
-
-Si tu as besoin de plus de détails sur certaines commandes ou d'autres explications, je suis là pour t'aider ! 😊
