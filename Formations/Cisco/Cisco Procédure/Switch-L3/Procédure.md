@@ -1,6 +1,4 @@
 
----
-
 ### **Objectif** : Configurer une topologie réseau avec plusieurs VLANs, 3 switchs, et le VTP, avec un switch Layer 3 pour le routage inter-VLAN.
 
 ---
@@ -121,7 +119,7 @@ Attribuez les ports à leurs VLANs respectifs :
 
 ```plaintext
 ! Port pour les PC ADMIN (VLAN 10)
-Switch(config)# interface fa0/1 - 18
+Switch(config)# interface range fa0/1 - 18
 Switch(config-if)# switchport mode access
 Switch(config-if)# switchport access vlan 10
 Switch(config-if)# exit
