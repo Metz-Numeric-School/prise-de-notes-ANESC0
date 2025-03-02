@@ -16,7 +16,7 @@
 
    Le contenu devrait ressembler à ceci :
 
-   ```
+   ```ini
    deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
    deb-src http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
 
@@ -25,7 +25,7 @@
 
    deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
    deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
-   ````
+   ```
 
 3. **Modifier le fichier si nécessaire** :
 

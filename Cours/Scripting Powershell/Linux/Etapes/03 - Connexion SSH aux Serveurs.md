@@ -1,4 +1,4 @@
-sudo# **Étape 3 : Connexion SSH aux serveurs**
+# **Étape 3 : Connexion SSH aux serveurs**
 
 ## **Installer le serveur SSH sur server1 et server2**
 

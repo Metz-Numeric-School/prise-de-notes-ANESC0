@@ -208,7 +208,7 @@ sudo mysql_secure_installation
 
   ```ini
   http://server2.learn-it.local/
-  ````
+  ```
 
 - Vous devriez voir la page par défaut d'Apache indiquant que le serveur fonctionne.
 
@@ -232,7 +232,7 @@ sudo mysql_secure_installation
 
   ```ini
   http://server2.learn-it.local/info.php
-  ````
+  ```
 
 - Vous devriez voir une page détaillant la configuration de PHP.
 
