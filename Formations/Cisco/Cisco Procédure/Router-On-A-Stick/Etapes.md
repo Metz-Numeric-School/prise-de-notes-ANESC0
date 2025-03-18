@@ -2,7 +2,7 @@ Voici une topologie réseau basée sur le thème d'une **entreprise** avec plusi
 
 ---
 
-### **Objectif** : Configurer une topologie réseau avec plusieurs VLANs, 3 switchs, et le VTP.
+## **Objectif** : Configurer une topologie réseau avec plusieurs VLANs, 3 switchs, et le VTP.
 
 ---
 
@@ -16,11 +16,11 @@ Voici une topologie réseau basée sur le thème d'une **entreprise** avec plusi
 
 ---
 
-### **Étapes détaillées**
+# **Étapes détaillées**
 
 ---
 
-#### **1. Configuration matérielle et câblage**
+## **1. Configuration matérielle et câblage**
 
 1. **Reliez les switchs entre eux** :
     - **Switch 1 (serveur VTP)** connecté à **Switch 2** via un câble.
@@ -32,7 +32,7 @@ Voici une topologie réseau basée sur le thème d'une **entreprise** avec plusi
 
 ---
 
-#### **2. Définition des VLANs et des adresses IP**
+## **2. Définition des VLANs et des adresses IP**
 
 | **VLAN ID** | **Nom**              | **Plage IP**    | **Utilisation**        |     |
 | ----------- | -------------------- | --------------- | ---------------------- | --- |
@@ -43,7 +43,7 @@ Voici une topologie réseau basée sur le thème d'une **entreprise** avec plusi
 
 ---
 
-#### **3. Configuration des trunks entre les switchs**
+## **3. Configuration des trunks entre les switchs**
 
 Sur chaque switch, configurez les ports de liaison entre les switchs en mode **trunk** pour permettre la propagation des VLANs via le protocole VTP.
 
@@ -65,9 +65,9 @@ Répétez pour **Switch 2** et **Switch 3** sur leurs ports respectifs.
 
 ---
 
-#### **4. Configuration du VTP**
+## **4. Configuration du VTP**
 
-##### **Sur Switch 1 (Serveur VTP)**
+### **Sur Switch 1 (Serveur VTP)**
 
 1. Configurez le switch comme serveur VTP :
     
@@ -100,7 +100,7 @@ Répétez pour **Switch 2** et **Switch 3** sur leurs ports respectifs.
     ```
     
 
-##### **Sur Switch 2 et Switch 3 (Clients VTP)**
+### **Sur Switch 2 et Switch 3 (Clients VTP)**
 
 Configurez-les en mode **client** pour recevoir les VLANs propagés par le serveur :
 
@@ -114,9 +114,9 @@ Switch(config)# vtp password MonMotDePasse
 
 ---
 
-#### **5. Configuration des ports en mode access**
+## **5. Configuration des ports en mode access**
 
-##### **Sur Switch 1**
+### **Sur Switch 1**
 
 Attribuez les ports à leurs VLANs respectifs :
 
@@ -129,7 +129,7 @@ Switch(config-if)# exit
 
 ```
 
-##### **Sur Switch 2**
+### **Sur Switch 2**
 
 Attribuez les ports aux VLANs :
 
@@ -146,7 +146,7 @@ Switch(config-if)# switchport access vlan 40
 Switch(config-if)# exit
 ```
 
-##### **Sur Switch 3**
+### **Sur Switch 3**
 
 Même logique pour le VLAN Technique :
 
@@ -168,7 +168,8 @@ Switch(config-if)# exit
 
 ---
 
-#### **6. Configuration du routeur (Routage inter-VLANs)**
+## **6. Configuration du routeur (Routage inter-VLANs)**
+
 
 Ne pas oublier de not shut le port car il est désactivé par défaut
 
@@ -177,7 +178,6 @@ Router(config)# int g0/0/0
 Router(config)# no shut
 
 ```
-
 
 
 
@@ -216,7 +216,7 @@ Router(config-subif)# exit
 ```
 
 ---
-#### DHCP
+## **DHCP**
 
 Créer un dhcp sur le routeur pour chaque vlan
 
@@ -244,8 +244,17 @@ Router(config-dhcp)# exit
 
 
 -----
+## **DNS**
 
-#### **8. Vérifications finales**
+il faut effectuer une commande pour chaque dhcp pool
+
+```
+dns-server 8.8.8.8
+```
+
+-----
+
+## **8. Vérifications finales**
 
 - Testez la propagation des VLANs sur les clients VTP avec :
     
@@ -254,3 +263,4 @@ Router(config-dhcp)# exit
     ```
     
 - Testez la connectivité entre les VLANs avec des commandes **ping** entre PC.
+

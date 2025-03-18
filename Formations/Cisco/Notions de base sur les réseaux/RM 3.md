@@ -34,7 +34,3 @@ Le **jumelage Bluetooth** permet à deux appareils de partager des ressources. L
 ### Sécurité
 
 Pour assurer la sécurité des connexions sans fil, notamment Wi-Fi et Bluetooth, il est recommandé d'utiliser des protocoles de sécurité appropriés, de privilégier les connexions VPN et d’éviter les informations non cryptées.
-
----
-
-As-tu déjà utilisé ces technologies dans un projet ou une situation spécifique ?

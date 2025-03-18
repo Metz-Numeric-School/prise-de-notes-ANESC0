@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formations/Cisco/IT essentials 8/Module 6/x - Summary.md",
+                "file": "Formations/Cisco/Notions de base sur les réseaux/RM 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "x - Summary"
+              "title": "RM 4"
+            }
+          },
+          {
+            "id": "d3a1ae61f850c7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage/Planning de mise en oeuvre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning de mise en oeuvre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -163,54 +178,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "d3a1ae61f850c7c1",
   "lastOpenFiles": [
-    "Formations/Cisco/IT essentials 8/Module 5/5.1 Network Components and Types.md",
-    "Formations/Cisco/IT essentials 8/Module 5/5.3 Network Devices.md",
-    "Formations/Cisco/IT essentials 8/Module 6/Devices to Network Connection.md",
-    "Formations/Cisco/IT essentials 8/Module 6/x - Summary.md",
-    "Formations/Cisco/IT essentials 8/Module 6/The Basic Networking Troubleshooting Process.md",
-    "Formations/Cisco/IT essentials 8/Module 5/5.4 Summary.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 17.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 16.md",
-    "path/Cisco/Pasted image 20250301215636.png",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 15.md",
-    "Formations/Cisco/IT essentials 8/Module 5/5.2 Networking Protocols.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 14.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 13.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RCP  Accès réseau.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 4.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 2.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 1.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 3.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 10.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 9.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 8.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 5.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 12.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RCP Protocol Internet.md",
-    "Formations/Cisco/Notions de base sur les réseaux/RM 11.md",
-    "Cours/Scripting Powershell/Contener/Note/Conteneurisation.md",
-    "Formations/Cisco/Notions de base sur les réseaux/Sans titre",
+    "Cours/Sécurité des postes/TP/TP_OPNSENSE                                                                                                NIGRO Antony.doc",
+    "Cours/Sécurité des postes/TP/~WRL1596.tmp",
+    "Cours/Sécurité des postes/TP/~WRD1584.tmp",
+    "Cours/Sécurité des postes/TP/~WRL1020.tmp",
+    "Cours/Sécurité des postes/TP/~WRD1008.tmp",
+    "Cours/Sécurité des postes/TP/~WRL0005.tmp",
+    "Cours/Sécurité des postes/TP/~WRD0004.tmp",
+    "Cours/Sécurité des postes/TP/~WRL0003.tmp",
+    "Cours/Sécurité des postes/TP/~WRD0002.tmp",
+    "Cours/Sécurité des postes/TP/~WRL0001.tmp",
+    "Cours/Sécurité des postes/TP/~WRD0000.tmp",
+    "Stage/Entreprises à contacter.md",
+    "Stage/Planning 3.md",
+    "Stage/Planning de mise en oeuvre.md",
+    "Stage/Planning 2.md",
+    "Formations/Cisco/IT essentials 8/Module 8/QUIZZ.md",
+    "Formations/Cisco/IT essentials 8/Module 8/Printers.md",
+    "images/PNET/Pasted image 20250115095951.png",
+    "images/PNET/Pasted image 20250115141345.png",
+    "images/PNET/Pasted image 20250115141904.png",
+    "images/PNET/Pasted image 20250115141948.png",
+    "images/PNET/Pasted image 20250115142307.png",
+    "images/PNET/Pasted image 20250115143131.png",
+    "images/PNET/Pasted image 20250115143639.png",
+    "images/PNET/Pasted image 20250115143514.png",
+    "images/PNET/Pasted image 20250115143454.png",
+    "images/PNET/Pasted image 20250115095956.png",
+    "Procédures/Architecture réseau/PNETLAB/Procédures/Switch Layer 3.md",
+    "Formations/Cisco/Cisco Procédure/Switch-L3/Procédure.md",
+    "Formations/Cisco/Cisco Procédure/Switch-L3/Explications.md",
+    "Cours/Sécurité des postes/TP/OPNSense.md",
+    "README.md",
+    "Cours/Securité et vulnérabilité informatique/Stormshield/Cour N°1.md",
     "Cours/Scripting Powershell/Contener/Note/TP Noté.md",
-    "Cours/Scripting Powershell/Contener/Note",
-    "Cours/Scripting Powershell/Linux/Etapes/LICENSE",
-    "Cours/Scripting Powershell/Linux/Etapes",
-    "Cours/Scripting Powershell/Linux",
-    "Cours/Scripting Powershell/Nouveau dossier",
-    "Cours/Scripting Powershell/Contener/keys/id_rsa_bsrc2.pub",
-    "Cours/Scripting Powershell/Contener/keys/id_rsa_bsrc2",
-    "Cours/Scripting Powershell/Contener/keys",
-    "Cours/Scripting Powershell/Contener/Nouveau dossier",
-    "path/Cisco/Pasted image 20250223144554.png",
-    "path/Cisco/Pasted image 20250223144137.png",
-    "path/Cisco/Pasted image 20250223000000.png",
-    "path/Cisco/Pasted image 20250222134431.png",
-    "path/Cisco/Pasted image 20250222134416.png",
-    "path/Cisco/Pasted image 20250222134352.png",
-    "path/Cisco/Pasted image 20250222134105.png",
-    "path/Cisco/Pasted image 20250222134051.png",
-    "path/Cisco/Pasted image 20250222134038.png",
+    "Cours/Scripting Powershell/Contener/Note/Conteneurisation.md",
+    "Cours/Supervision/2025-01-14.md",
+    "Cours/Anglais/Cour N°2 - 2024-10-14.md",
+    "Cours/Anglais/Cour N°3 - 2024-11-13.md",
+    "Cours/Anglais/Cour N°5 - 2025-01-13.md",
+    "Cours/Anglais/Cour N°4 - 2024-11-12.md",
+    "Cours/Anglais/Cour N°1 - 2024-10-09.md",
+    "Cours/Windows Client Avancé/Cour N°1 - 2024-11-20.md",
+    "Cours/Securité et vulnérabilité informatique/ACL'S/Cour N°1.md",
+    "Cours/Securité et vulnérabilité informatique/ACL'S/Cour N°2.md",
+    "Formations/Cisco/IT essentials 8/Module 7/7.9.md",
+    "Formations/Cisco/IT essentials 8/Module 7/7.3.md",
     "Formations/Cisco/IT essentials 8/Module 2/Sans titre.canvas",
     "Untitled.canvas"
   ]
