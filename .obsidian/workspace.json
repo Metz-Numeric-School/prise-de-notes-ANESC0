@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b1431377f1dd20",
+        "id": "8f5942177464c5a8",
         "type": "tabs",
         "children": [
           {
-            "id": "505c9b1ffad11e82",
+            "id": "32b5783d9975df00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formations/Cisco/Notions de base sur les réseaux/RM 4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RM 4"
-            }
-          },
-          {
-            "id": "d3a1ae61f850c7c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Planning de mise en oeuvre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planning de mise en oeuvre"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 417.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -109,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cloud computing/AWS/Module_1/Vidéo Conclusion.md",
+                "file": "Formations/Cisco/IT essentials 8/Module 10/Résumé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vidéo Conclusion"
+              "title": "Rétrolien pour Résumé"
             }
           },
           {
@@ -165,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,54 +159,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d3a1ae61f850c7c1",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "Cours/Sécurité des postes/TP/TP_OPNSENSE                                                                                                NIGRO Antony.doc",
-    "Cours/Sécurité des postes/TP/~WRL1596.tmp",
-    "Cours/Sécurité des postes/TP/~WRD1584.tmp",
-    "Cours/Sécurité des postes/TP/~WRL1020.tmp",
-    "Cours/Sécurité des postes/TP/~WRD1008.tmp",
-    "Cours/Sécurité des postes/TP/~WRL0005.tmp",
-    "Cours/Sécurité des postes/TP/~WRD0004.tmp",
-    "Cours/Sécurité des postes/TP/~WRL0003.tmp",
-    "Cours/Sécurité des postes/TP/~WRD0002.tmp",
-    "Cours/Sécurité des postes/TP/~WRL0001.tmp",
-    "Cours/Sécurité des postes/TP/~WRD0000.tmp",
-    "Stage/Entreprises à contacter.md",
-    "Stage/Planning 3.md",
-    "Stage/Planning de mise en oeuvre.md",
-    "Stage/Planning 2.md",
-    "Formations/Cisco/IT essentials 8/Module 8/QUIZZ.md",
-    "Formations/Cisco/IT essentials 8/Module 8/Printers.md",
-    "images/PNET/Pasted image 20250115095951.png",
-    "images/PNET/Pasted image 20250115141345.png",
-    "images/PNET/Pasted image 20250115141904.png",
-    "images/PNET/Pasted image 20250115141948.png",
-    "images/PNET/Pasted image 20250115142307.png",
-    "images/PNET/Pasted image 20250115143131.png",
-    "images/PNET/Pasted image 20250115143639.png",
-    "images/PNET/Pasted image 20250115143514.png",
-    "images/PNET/Pasted image 20250115143454.png",
-    "images/PNET/Pasted image 20250115095956.png",
-    "Procédures/Architecture réseau/PNETLAB/Procédures/Switch Layer 3.md",
-    "Formations/Cisco/Cisco Procédure/Switch-L3/Procédure.md",
-    "Formations/Cisco/Cisco Procédure/Switch-L3/Explications.md",
-    "Cours/Sécurité des postes/TP/OPNSense.md",
-    "README.md",
-    "Cours/Securité et vulnérabilité informatique/Stormshield/Cour N°1.md",
-    "Cours/Scripting Powershell/Contener/Note/TP Noté.md",
-    "Cours/Scripting Powershell/Contener/Note/Conteneurisation.md",
-    "Cours/Supervision/2025-01-14.md",
-    "Cours/Anglais/Cour N°2 - 2024-10-14.md",
-    "Cours/Anglais/Cour N°3 - 2024-11-13.md",
-    "Cours/Anglais/Cour N°5 - 2025-01-13.md",
-    "Cours/Anglais/Cour N°4 - 2024-11-12.md",
-    "Cours/Anglais/Cour N°1 - 2024-10-09.md",
-    "Cours/Windows Client Avancé/Cour N°1 - 2024-11-20.md",
+    "images/Cisco/Pasted image 20250117154439.png",
+    "images/Cisco/Pasted image 20241226185307.png",
+    "images/Cisco/Pasted image 20241226172057.png",
+    "images/Cisco/Pasted image 20241220013648.png",
+    "images/Cisco/Pasted image 20241218233428.png",
+    "images/Cisco/Pasted image 20241218122600.png",
+    "images/Cisco/Pasted image 20241216163445.png",
     "Cours/Securité et vulnérabilité informatique/ACL'S/Cour N°1.md",
     "Cours/Securité et vulnérabilité informatique/ACL'S/Cour N°2.md",
-    "Formations/Cisco/IT essentials 8/Module 7/7.9.md",
-    "Formations/Cisco/IT essentials 8/Module 7/7.3.md",
+    "images/PowerShell/Pasted image 20250325093618.png",
+    "images/PowerShell/Pasted image 20250325093540.png",
+    "images/Sécurité Informatique/Pasted image 20250402095058.png",
+    "images/Cisco/Pasted image 20250309124523.png",
+    "Stage/Journal/Journal Stage.md",
+    "Stage/Commandes MEMO/Commandes Date-Heure.md",
+    "Stage/Grafana/config.md",
+    "Stage/VM Agent/Agent Zabbix Linux.md",
+    "Stage/Commandes MEMO/Commandes SSH.md",
+    "Stage/Commandes MEMO/Commandes 1.md",
+    "Procédures/Linux/Changer la carte réseau d'un serveur.md",
+    "Procédures/Linux/Renommer un serveur.md",
+    "Stage/Grafana/Procédure Grafana installation.md",
+    "Stage/Zabbix/tt.md",
+    "Stage/Zabbix/Ressources recommandées.md",
+    "Stage/Zabbix/config.md",
+    "Stage/Zabbix/Procédure Zabbix installation.md",
+    "Procédures/Architecture réseau/PNETLAB/Procédures/Routage Dynamique - OSPF.md",
+    "Procédures/Architecture réseau/PNETLAB/Procédures/NAT & PAT.md",
+    "Procédures/Architecture réseau/PNETLAB/Procédures/Switch Layer 3.md",
+    "Stage/Rapport de stage/~WRL2670.tmp",
+    "Stage/Rapport de stage/~WRD2666.tmp",
+    "Stage/Rapport de stage/Plan pour le rapport.md",
+    "Stage/Rapport de stage/~WRL1789.tmp",
+    "Stage/Rapport de stage/~WRD1781.tmp",
+    "Stage/Rapport de stage/~WRL3105.tmp",
+    "Stage/Rapport de stage/~WRD3101.tmp",
+    "Stage/Rapport de stage/~WRL2806.tmp",
+    "Stage/Rapport de stage/~WRD2802.tmp",
+    "Stage/Rapport de stage/~WRL0338.tmp",
+    "Stage/Rapport de stage/~WRD0331.tmp",
+    "Stage/VM Agent/Par SNMP.md",
+    "Stage/Plan adressage template.md",
+    "Stage/Entreprises à contacter.md",
+    "Stage/VM Agent/Windows Server 2003.md",
+    "Stage/Plan adressage template 1.md",
+    "Formations/Cisco/Equipements réseau et Configuration de base/Résumé - M8.md",
     "Formations/Cisco/IT essentials 8/Module 2/Sans titre.canvas",
     "Untitled.canvas"
   ]

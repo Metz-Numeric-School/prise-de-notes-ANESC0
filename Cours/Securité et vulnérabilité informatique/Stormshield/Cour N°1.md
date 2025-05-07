@@ -60,6 +60,11 @@ On se rend dans "**SYSTEME -> Licence**" et on séléctionne le fichier de licen
 
 ### Dans Politique de Sécurité
 
+## Filtrage activer "Pass all"
+
+![[Pasted image 20250402095058.png]]
+
+
 #### NAT
 
 ![[Pasted image 20250311115023.png]]![[Pasted image 20250311115115.png]]
